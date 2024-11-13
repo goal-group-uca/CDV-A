@@ -1,2 +1,2 @@
 # CDV-A
-Under scientific review. It will be available soon.
+Accepted for publication in the scientific journal Nonlinear Dynamics. Pending publication.
